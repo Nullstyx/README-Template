@@ -153,7 +153,7 @@ This project is distributed under the **[MIT](LICENSE)** license.
 ### Contacts
 
 <!-- Specify the author and convenient contact methods (GitHub, email, website, etc.) -->
-- **Author**: https://github.com/MrachniyTipchek
+- **Author**: https://github.com/Nullstyx
 
 <!-- Badges -->
 [stars-shield]: https://img.shields.io/github/stars/MrachniyTipchek/README-Template?style=for-the-badge
